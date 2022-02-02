@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "nombre": "Verde",
+    "precio": 14,
+      "imagen": "https://res.cloudinary.com/do2ijjhfn/image/upload/v1643602394/tamal_verde_xwjxxc.png"
+    },
+    {
+      "id": 2,
+      "nombre": "Mole",
+      "precio": 14,
+      "imagen": "https://res.cloudinary.com/do2ijjhfn/image/upload/v1643602394/tamaldemole_ve7ccf.png"
+    },
+    {
+      "id": 3,
+      "nombre": "Guayaba",
+      "precio": 14,
+      "imagen": "https://res.cloudinary.com/do2ijjhfn/image/upload/v1643602394/tamaldeguayabas_zj44xo.png"
+    },
+    {
+      "id": 4,
+      "nombre": "Piña",
+      "precio": 14,
+      "imagen": "https://res.cloudinary.com/do2ijjhfn/image/upload/v1643602394/tamaldepi%C3%B1as_sxwbhz.png"
+    },
+    {
+      "id": 5,
+      "nombre": "Pasas",
+      "precio": 14,
+      "imagen": "https://res.cloudinary.com/do2ijjhfn/image/upload/v1643602394/tamaldepasas_ivjvhz.png"
+    }
+  ]

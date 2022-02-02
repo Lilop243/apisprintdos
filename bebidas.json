@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "nombre": "Champurrano",
+      "precio": 14,
+      "imagen": "https://res.cloudinary.com/do2ijjhfn/image/upload/v1643602394/champurrado1_omd42k.png"
+    },
+    {
+      "id": 2,
+      "nombre": "Atole de arroz",
+    "precio": 14,
+      "imagen": "https://res.cloudinary.com/do2ijjhfn/image/upload/v1643602394/atoledearroz_vexpk2.png"
+    },
+    {
+      "id": 3,
+      "nombre": "Chocolate calient",
+    "precio": 14,
+      "imagen": "https://res.cloudinary.com/do2ijjhfn/image/upload/v1643602394/chocolate_caliente_uxehsy.png"
+    },
+    {
+      "id": 4,
+      "nombre": "Cafe negro",
+    "precio": 14,
+      "imagen": "https://res.cloudinary.com/do2ijjhfn/image/upload/v1643602394/cafenegro_qbtjt3.png"
+    }
+  ]

@@ -1,0 +1,33 @@
+
+        [
+            {
+              "id": 1,
+              "precio": 25,
+              "nombre": "Verde",
+              "imagen": "https://res.cloudinary.com/do2ijjhfn/image/upload/v1643604355/guajolotaverde_fa8e5s.png"
+            },
+            {
+              "id": 2,
+              "nombre": "Mole",
+              "precio": 25,
+              "imagen": "https://res.cloudinary.com/do2ijjhfn/image/upload/v1643602394/guajolotamole_hxjuff.png"
+            },
+            {
+              "id": 3,
+              "nombre": "Guayaba",
+              "precio": 25,
+              "imagen": "https://res.cloudinary.com/do2ijjhfn/image/upload/v1643602394/guajolotaguayaba_hxzo7y.png"
+            },
+            {
+              "id": 4,
+              "nombre": "Piña",
+              "precio": 25,
+              "imagen": "https://res.cloudinary.com/do2ijjhfn/image/upload/v1643602394/guajolotapi%C3%B1a_dgeziz.png"
+            },
+            {
+              "id": 5,
+              "nombre": "Pasas",
+              "precio": 25,
+              "imagen": "https://res.cloudinary.com/do2ijjhfn/image/upload/v1643602394/guajolotapasas_j1mbax.png"
+            }
+          ]
